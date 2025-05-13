@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Conroder
 - 👀 I’m interested in windsurfing and reading
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by email at C.moran73@universityofgalway.ie
 - 😄 Pronouns: He/Him
