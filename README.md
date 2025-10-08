@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Conroder
-- 👀 I’m interested in windsurfing and reading
+- 👀 I’m interested in Windsurfing
 - 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by email at C.moran73@universityofgalway.ie
